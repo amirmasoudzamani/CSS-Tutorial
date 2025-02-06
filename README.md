@@ -1,2 +1,2 @@
-# CSS-Tutorial
-A complete document for learning CSS
+# CSS
+Cascading Style Sheets
